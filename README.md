@@ -1,3 +1,3 @@
 # CTZN.Resources
 
-Apk and Aab Made using:[appmaker.xyz](http://appmaker.xyz)
+Apk and Aab Made using: [AppMaker.xyz](http://appmaker.xyz)
